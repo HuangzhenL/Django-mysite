@@ -1,2 +1,4 @@
 # Django-mysite
 Django项目，调用GitHub接口来获取用户信息，在前端使用Bootstrap模板进行展示
+mysite文件夹为pycharm下的项目文档，可以直接在pycharm中打卡
+具体介绍可以参考我的博客
